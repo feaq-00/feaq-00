@@ -16,7 +16,7 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 - ⚙️ I use daily: `aws`, `terraform`, `python`, `linux`, `git`  
 - 🌱 Currently learning: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**  
 - 🚀 Built:  
-  - Terraform AWS static website  
+  - Terraform AWS static [website](https://tinyurl.com/p0ptooth)
   - 7-Day DevOps Challenge (Nextwork)  
   - Flask + MongoDB web app (coursework)  
   - Python ETL pipelines with Pandas (coursework)  

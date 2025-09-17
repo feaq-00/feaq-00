@@ -19,7 +19,6 @@ I’m looking for opportunities where I can contribute, learn from experienced p
   - Terraform AWS static [website](https://tinyurl.com/p0ptooth)
   - 7-Day DevOps Challenge (NextWork Project)  
   - Flask + MongoDB web app (School Assignment)  
-  - Python ETL pipelines with Pandas (School Assignment)
   - Basic Frontend Web Development with HTML, CSS, JavaScript, JQuery and BootStrap (Coursework)
 - 🌍 I’m active within the **Cloud & DevOps community** and continuously exploring open-source tools  
 - 💬 `ping` me about **cloud engineering**, **IaC**, **automation**, **linux**, and **career transition into DevOps**  

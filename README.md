@@ -13,7 +13,7 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 
 ---
 
-- ⚙️ I use daily: `aws`, `terraform`, `python`, `linux`, `git`  
+- ⚙️ Hands-on exposure to: `aws`, `terraform`, `python`, `linux`, `git`
 - 🌱 Currently learning: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**  
 - 🚀 Built:  
   - Terraform AWS static [website](https://tinyurl.com/p0ptooth)

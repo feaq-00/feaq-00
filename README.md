@@ -14,9 +14,9 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 ---
 
 - ⚙️ Hands-on with: `aws`, `terraform`, `python`, `linux`, `git`
-- 🌱 Currently learning: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**  
+- 🌱 Currently learning or eventually want to learn: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**, **ArgoCD**, **GitHub Actions**, **Jenkins**, the list goes on..
 - 🚀 Built:  
-  - Terraform AWS static [website](https://tinyurl.com/p0ptooth)
+  - Terraform AWS static **[website](https://tinyurl.com/p0ptooth)**
   - 7-Day DevOps Challenge (NextWork Project)  
   - Flask + MongoDB web app (School Assignment)  
   - Basic Frontend Web Development with HTML, CSS, JavaScript, JQuery and BootStrap (Coursework)
@@ -25,4 +25,4 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 
 ---
 
-✨ *Excited to grow, open to guidance, and always eager to collaborate on cloud and DevOps projects.* ✨  
+✨ *Excited to grow, open to guidance, and always eager to collaborate on cloud and DevOps projects.* ✨ 

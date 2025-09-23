@@ -14,7 +14,7 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 ---
 
 - ⚙️ Hands-on with: `aws`, `terraform`, `python`, `linux`, `git`
-- 🌱 Currently learning and exploring: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**, **ArgoCD**, **GitHub Actions**, **Jenkins**, and more..
+- 🌱 Currently learning and exploring: **Kubernetes**, **Docker**, **Ansible**, **CI/CD pipelines**, and more..
 - 🚀 Built:  
   - Terraform AWS static **[website](https://tinyurl.com/p0ptooth)**
   - Dockerized web app host on AWS Elastic Beanstalk

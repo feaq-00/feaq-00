@@ -9,7 +9,7 @@ Coming from a non-IT background, I’m currently transitioning into the tech ind
 
 I’m AWS Certified ([Cloud Practitioner](https://www.credly.com/badges/e2d72406-16e5-46e8-9019-3478ab5943dd/linked_in_profile) & [Solutions Architect Associate](https://www.credly.com/badges/a6f32cf5-f5d9-4501-9a75-00ad59004de7/linked_in_profile)) and actively working on projects to build hands-on experience in **Infrastructure as Code (IaC)**, **automation**, and **DevOps practices**. My next milestones include the **Terraform Associate**, **RHCSA**, and **SysOps Administrator Associate** certifications.  
 
-I’m looking for opportunities where I can contribute, learn from experienced professionals, and grow as a Cloud/DevOps Engineer.  
+Currently interning as a DevSecOps Engineer at NETS!
 
 ---
 

@@ -7,7 +7,7 @@
 I’m Syafiq, a part-time `ICT` student at [SUSS](https://www.suss.edu.sg) with a minor in ☁️ `Cloud Computing`.  
 Coming from a non-IT background, I’m currently transitioning into the tech industry with a strong focus on **Cloud Engineering and DevOps**.
 
-I’m AWS Certified ([Cloud Practitioner](https://www.credly.com/badges/e2d72406-16e5-46e8-9019-3478ab5943dd/linked_in_profile) & [Solutions Architect Associate](https://www.credly.com/badges/a6f32cf5-f5d9-4501-9a75-00ad59004de7/linked_in_profile)) and actively working on projects to build hands-on experience in **Infrastructure as Code (IaC)**, **automation**, and **DevOps practices**. My next milestones include the **Terraform Associate**, **RHCSA**, and **SysOps Administrator Associate** certifications.  
+I’m AWS Certified ([Cloud Practitioner](https://www.credly.com/badges/e2d72406-16e5-46e8-9019-3478ab5943dd/linked_in_profile) & [Solutions Architect Associate](https://www.credly.com/badges/a6f32cf5-f5d9-4501-9a75-00ad59004de7/linked_in_profile)) and actively working on projects to build hands-on experience in **Infrastructure as Code (IaC)**, **automation**, and **DevOps practices**. My next milestones include the **Terraform Associate**, **RHCSA**, and **SOA-C03** certifications.  
 
 Currently interning as a DevSecOps Engineer at NETS!
 

@@ -14,7 +14,7 @@ I’m looking for opportunities where I can contribute, learn from experienced p
 ---
 
 - ⚙️ Hands-on with: `aws`, `terraform`, `python`, `linux`, `git`
-- 🌱 Currently learning and exploring: **Kubernetes**, **Docker**, **Jenkins (Groovy)**, **CI/CD pipelines**
+- 🌱 Currently learning DevSecOps tools: **Jenkins (Groovy)**, **Jira**, **Bitbucket**, **JFrog Artifactory**, **Nexus Repo**, **SonarQube**, **Fortify**, **Mend.io**, **Linux**
 - 🚀 Built:  
   - Terraform AWS static **[website](https://tinyurl.com/p0ptooth)**
   - Dockerized web app host on AWS Elastic Beanstalk

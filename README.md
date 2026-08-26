@@ -14,7 +14,7 @@ Currently working as a DevSecOps Engineer at NETS! (Converted from intern!)
 ---
 
 - ⚙️ Hands-on with: `aws`, `terraform`, `python`, `linux`, `git`
-- 🌱 Currently learning DevSecOps tools: **Jenkins (Groovy)**, **Jira**, **Bitbucket**, **JFrog Artifactory**, **Nexus Repo**, **SonarQube**, **Fortify**, **Mend.io**, **Linux**
+- 🌱 Currently learning DevSecOps tools: **Jenkins (Groovy)**, **Jira**, **Bitbucket**, **JFrog Artifactory**, **Nexus Repo**, **SonarQube**, **Fortify**, **Mend.io**, **Linux**, **OctopusDeploy**
 - 🚀 Built:  
   - Terraform AWS static **[website](https://tinyurl.com/p0ptooth)**
   - Dockerized web app host on AWS Elastic Beanstalk
